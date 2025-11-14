@@ -8,9 +8,9 @@ Bienvenide a la organización oficial del canal de **GaysperVT**, hogar de proye
 Aquí encontrarás el material que usamos en los directos:
 - ✨ Código de las clases
 - ✨ Mini proyectos gamer
-- ✨. Ejercicios de Java, HTML, CSS y lo que se nos ocurra
-- ✨. Utilidades para viewers, overlays y movidas para Twitch
-- ✨. Repos para el lore del vtuber, porque sí, el lore también es escalable
+- ✨ Ejercicios de Java, HTML, CSS y lo que se nos ocurra
+- ✨ Utilidades para viewers, overlays y movidas para Twitch
+- ✨ Repos para el lore del vtuber, porque sí, el lore también es escalable
 
 ---
 
